@@ -10,3 +10,6 @@
 [submodule "Introduccion_Mineria_Datos"]
 	path = Introduccion_Mineria_Datos
 	url = https://github.com/p72losaj/Introduccion_Mineria_Datos
+[submodule "Proyectos"]
+	path = Proyectos
+	url = https://github.com/p72losaj/Proyectos
