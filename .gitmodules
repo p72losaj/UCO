@@ -64,3 +64,6 @@
 [submodule "Arquitectura-de-Redes"]
 	path = Arquitectura-de-Redes
 	url = https://github.com/p72losaj/Arquitectura-de-Redes
+[submodule "Sistemas-Inteligentes"]
+	path = Sistemas-Inteligentes
+	url = https://github.com/p72losaj/Sistemas-Inteligentes
