@@ -28,3 +28,6 @@
 [submodule "Auditoria-Informatica"]
 	path = Auditoria-Informatica
 	url = https://github.com/p72losaj/Auditoria-Informatica
+[submodule "Redes-y-Comunicaciones-Especificas"]
+	path = Redes-y-Comunicaciones-Especificas
+	url = https://github.com/p72losaj/Redes-y-Comunicaciones-Especificas
