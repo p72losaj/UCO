@@ -46,3 +46,6 @@
 [submodule "Sistemas-de-Informacion"]
 	path = Sistemas-de-Informacion
 	url = https://github.com/p72losaj/Sistemas-de-Informacion
+[submodule "Redes"]
+	path = Redes
+	url = https://github.com/p72losaj/Redes
