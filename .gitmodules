@@ -31,3 +31,6 @@
 [submodule "Redes-y-Comunicaciones-Especificas"]
 	path = Redes-y-Comunicaciones-Especificas
 	url = https://github.com/p72losaj/Redes-y-Comunicaciones-Especificas
+[submodule "Tecnicas-de-optimizacion"]
+	path = Tecnicas-de-optimizacion
+	url = https://github.com/p72losaj/Tecnicas-de-optimizacion
