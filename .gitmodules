@@ -13,3 +13,6 @@
 [submodule "Proyectos"]
 	path = Proyectos
 	url = https://github.com/p72losaj/Proyectos
+[submodule "Introduccion_Modelos_Computacionales"]
+	path = Introduccion_Modelos_Computacionales
+	url = https://github.com/p72losaj/Introduccion_Modelos_Computacionales
