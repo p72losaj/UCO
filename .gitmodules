@@ -25,3 +25,6 @@
 [submodule "PW-2122"]
 	path = PW-2122
 	url = https://github.com/p72losaj/PW-2122
+[submodule "Auditoria-Informatica"]
+	path = Auditoria-Informatica
+	url = https://github.com/p72losaj/Auditoria-Informatica
