@@ -1,3 +1,6 @@
 [submodule "Informatica-Grafica"]
 	path = Informatica-Grafica
 	url = https://github.com/p72losaj/Informatica-Grafica
+[submodule "Datasets"]
+	path = Datasets
+	url = https://github.com/p72losaj/Datasets
