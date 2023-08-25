@@ -49,3 +49,6 @@
 [submodule "Redes"]
 	path = Redes
 	url = https://github.com/p72losaj/Redes
+[submodule "Programacion-y-Administracion-de-Sistemas"]
+	path = Programacion-y-Administracion-de-Sistemas
+	url = https://github.com/p72losaj/Programacion-y-Administracion-de-Sistemas
