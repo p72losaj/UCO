@@ -16,3 +16,6 @@
 [submodule "Introduccion_Modelos_Computacionales"]
 	path = Introduccion_Modelos_Computacionales
 	url = https://github.com/p72losaj/Introduccion_Modelos_Computacionales
+[submodule "MiningData"]
+	path = MiningData
+	url = https://github.com/p72losaj/MiningData
