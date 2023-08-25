@@ -76,3 +76,6 @@
 [submodule "Legislacion"]
 	path = Legislacion
 	url = https://github.com/p72losaj/Legislacion
+[submodule "Procesadores-de-Lenguajes"]
+	path = Procesadores-de-Lenguajes
+	url = https://github.com/p72losaj/Procesadores-de-Lenguajes
