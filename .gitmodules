@@ -85,3 +85,6 @@
 [submodule "ALGORITMICA-2122"]
 	path = ALGORITMICA-2122
 	url = https://github.com/p72losaj/ALGORITMICA-2122
+[submodule "Gestion_clinica"]
+	path = Gestion_clinica
+	url = https://github.com/p72losaj/Gestion_clinica
