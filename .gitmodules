@@ -58,3 +58,6 @@
 [submodule "Estructura-de-Datos"]
 	path = Estructura-de-Datos
 	url = https://github.com/p72losaj/Estructura-de-Datos
+[submodule "Configuracion-y-evaluacion-de-sistemas-informaticos"]
+	path = Configuracion-y-evaluacion-de-sistemas-informaticos
+	url = https://github.com/p72losaj/Configuracion-y-evaluacion-de-sistemas-informaticos
