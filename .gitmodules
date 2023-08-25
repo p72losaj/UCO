@@ -55,3 +55,6 @@
 [submodule "Programacion-Orientada-a-Objetos"]
 	path = Programacion-Orientada-a-Objetos
 	url = https://github.com/p72losaj/Programacion-Orientada-a-Objetos
+[submodule "Estructura-de-Datos"]
+	path = Estructura-de-Datos
+	url = https://github.com/p72losaj/Estructura-de-Datos
