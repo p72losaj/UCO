@@ -37,3 +37,6 @@
 [submodule "Mineria-de-Datos-Avanzada"]
 	path = Mineria-de-Datos-Avanzada
 	url = https://github.com/p72losaj/Mineria-de-Datos-Avanzada
+[submodule "Introduccion-al-Aprendizaje-Automatico"]
+	path = Introduccion-al-Aprendizaje-Automatico
+	url = https://github.com/p72losaj/Introduccion-al-Aprendizaje-Automatico
