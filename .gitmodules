@@ -4,6 +4,3 @@
 [submodule "Datasets"]
 	path = Datasets
 	url = https://github.com/p72losaj/Datasets
-[submodule "FSIV"]
-	path = FSIV
-	url = https://github.com/p72losaj/FSIV
