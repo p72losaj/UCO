@@ -34,3 +34,6 @@
 [submodule "Tecnicas-de-optimizacion"]
 	path = Tecnicas-de-optimizacion
 	url = https://github.com/p72losaj/Tecnicas-de-optimizacion
+[submodule "Mineria-de-Datos-Avanzada"]
+	path = Mineria-de-Datos-Avanzada
+	url = https://github.com/p72losaj/Mineria-de-Datos-Avanzada
