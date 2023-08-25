@@ -67,3 +67,6 @@
 [submodule "Sistemas-Inteligentes"]
 	path = Sistemas-Inteligentes
 	url = https://github.com/p72losaj/Sistemas-Inteligentes
+[submodule "Metaheuristicas"]
+	path = Metaheuristicas
+	url = https://github.com/p72losaj/Metaheuristicas
