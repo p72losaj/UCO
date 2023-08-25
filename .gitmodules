@@ -40,3 +40,6 @@
 [submodule "Introduccion-al-Aprendizaje-Automatico"]
 	path = Introduccion-al-Aprendizaje-Automatico
 	url = https://github.com/p72losaj/Introduccion-al-Aprendizaje-Automatico
+[submodule "Sistemas-Operativos"]
+	path = Sistemas-Operativos
+	url = https://github.com/p72losaj/Sistemas-Operativos
