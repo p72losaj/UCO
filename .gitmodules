@@ -73,3 +73,6 @@
 [submodule "Sistemas-Interactivos"]
 	path = Sistemas-Interactivos
 	url = https://github.com/p72losaj/Sistemas-Interactivos
+[submodule "Legislacion"]
+	path = Legislacion
+	url = https://github.com/p72losaj/Legislacion
