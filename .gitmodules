@@ -22,3 +22,6 @@
 [submodule "BD2122"]
 	path = BD2122
 	url = https://github.com/p72losaj/BD2122
+[submodule "PW-2122"]
+	path = PW-2122
+	url = https://github.com/p72losaj/PW-2122
