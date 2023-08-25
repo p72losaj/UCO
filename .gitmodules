@@ -52,3 +52,6 @@
 [submodule "Programacion-y-Administracion-de-Sistemas"]
 	path = Programacion-y-Administracion-de-Sistemas
 	url = https://github.com/p72losaj/Programacion-y-Administracion-de-Sistemas
+[submodule "Programacion-Orientada-a-Objetos"]
+	path = Programacion-Orientada-a-Objetos
+	url = https://github.com/p72losaj/Programacion-Orientada-a-Objetos
