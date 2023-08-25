@@ -7,3 +7,6 @@
 [submodule "FSIV"]
 	path = FSIV
 	url = https://github.com/p72losaj/FSIV
+[submodule "Introduccion_Mineria_Datos"]
+	path = Introduccion_Mineria_Datos
+	url = https://github.com/p72losaj/Introduccion_Mineria_Datos
