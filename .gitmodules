@@ -79,3 +79,6 @@
 [submodule "Procesadores-de-Lenguajes"]
 	path = Procesadores-de-Lenguajes
 	url = https://github.com/p72losaj/Procesadores-de-Lenguajes
+[submodule "IS-2122"]
+	path = IS-2122
+	url = https://github.com/p72losaj/IS-2122
