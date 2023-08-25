@@ -19,3 +19,6 @@
 [submodule "MiningData"]
 	path = MiningData
 	url = https://github.com/p72losaj/MiningData
+[submodule "BD2122"]
+	path = BD2122
+	url = https://github.com/p72losaj/BD2122
