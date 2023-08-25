@@ -43,3 +43,6 @@
 [submodule "Sistemas-Operativos"]
 	path = Sistemas-Operativos
 	url = https://github.com/p72losaj/Sistemas-Operativos
+[submodule "Sistemas-de-Informacion"]
+	path = Sistemas-de-Informacion
+	url = https://github.com/p72losaj/Sistemas-de-Informacion
