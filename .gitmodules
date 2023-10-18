@@ -88,3 +88,6 @@
 [submodule "Gestion_clinica"]
 	path = Gestion_clinica
 	url = https://github.com/p72losaj/Gestion_clinica
+[submodule "TFG"]
+	path = TFG
+	url = https://github.com/p72losaj/TFG
